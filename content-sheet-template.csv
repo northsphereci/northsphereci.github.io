@@ -1,0 +1,228 @@
+key,en,fr,notes,last_updated
+# ════════════════════════════════════════════════════════════
+# NORTH SPHERE CONSULTING — WEBSITE CONTENT SHEET
+# ════════════════════════════════════════════════════════════
+# HOW TO USE:
+#   - Edit the "en" column for English text
+#   - Edit the "fr" column for French text
+#   - Never edit the "key" column
+#   - Rows starting with # are ignored (use for comments)
+#   - The "notes" column is for your reference only
+# ════════════════════════════════════════════════════════════
+#
+# ── NAVIGATION ───────────────────────────────────────────────
+nav-home,Home,Accueil,Nav menu link,
+nav-about,About,À propos,Nav menu link,
+nav-expertise,Expertise,Expertise,Nav menu link,
+nav-services,Services,Services,Nav menu link,
+nav-approach,Approach,Approche,Nav menu link,
+nav-contact,Contact,Contact,Nav menu link,
+nav-cta,Get in Touch,Nous contacter,Nav button (top right),
+#
+# ── HERO SECTION (Home page) ─────────────────────────────────
+hero-label,Advisory · Strategy · Impact,Conseil · Stratégie · Impact,Small label above main headline,
+hero-headline,"Interdisciplinary Advisory for <em>Science, Innovation,</em> and Social Impact","Conseil interdisciplinaire pour la <em>science, l'innovation</em> et l'impact social",Main H1 on homepage — most prominent text,
+hero-sub,"North Sphere Consulting delivers rigorous, evidence-based advisory services that bridge complex systems, empower institutions, and advance equitable outcomes across sectors and regions.","North Sphere Consulting offre des services-conseils rigoureux et fondés sur des données probantes, qui relient des systèmes complexes, renforcent les institutions et favorisent des résultats équitables.",Subtitle paragraph below main headline,
+hero-btn1,Explore Our Services,Nos services,Primary CTA button,
+hero-btn2,Our Approach,Notre approche,Secondary button,
+#
+# ── STATS BAR (Home page — bottom of hero) ───────────────────
+stat-1-num,"20<em>+</em>","20<em>+</em>",Large number,
+stat-1-lbl,Years of Experience,Années d'expérience,Label under number,
+stat-2-num,"60<em>+</em>","60<em>+</em>",Large number,
+stat-2-lbl,Countries Engaged,Pays engagés,Label under number,
+stat-3-num,"350<em>+</em>","350<em>+</em>",Large number,
+stat-3-lbl,Mandates Completed,Mandats accomplis,Label under number,
+stat-4-num,6,6,Large number,
+stat-4-lbl,Domains of Expertise,Domaines d'expertise,Label under number,
+#
+# ── TRUSTED BY BAND (Home page) ──────────────────────────────
+trust-label,Trusted by leading institutions worldwide,La confiance des principales institutions mondiales,Small text above partner logos,
+#
+# ── WHY NORTH SPHERE (Home page) ─────────────────────────────
+why-label,Why North Sphere,Pourquoi North Sphere,Section eyebrow label,
+why-heading,"Built differently, for <em>harder</em> problems","Conçu différemment, pour des problèmes <em>plus complexes</em>",Section heading,
+why-sub,"We are not a generalist consultancy. We are a specialised advisory firm that brings practitioner depth, interdisciplinary breadth, and genuine independence to every mandate.","Nous ne sommes pas un cabinet de conseil généraliste. Nous sommes une firme de conseil spécialisée qui apporte profondeur praticienne, largeur interdisciplinaire et indépendance réelle à chaque mandat.",Section subheading paragraph,
+why-1-title,Practitioner-Led,Dirigé par des praticiens,Card 1 heading,
+why-1-desc,"Every engagement is led by senior advisors with hands-on experience in the field — not junior analysts supervised from a distance. Our partners have held leadership roles inside the systems they advise on.","Chaque engagement est dirigé par des conseillers seniors ayant une expérience terrain — pas des analystes juniors supervisés à distance. Nos associés ont occupé des postes de direction au sein des systèmes qu'ils conseillent.",Card 1 body text,
+why-2-title,Interdisciplinary by Design,Interdisciplinaire par conception,Card 2 heading,
+why-2-desc,"Most problems at the intersection of health, climate, governance, and equity require more than one discipline. We draw on six domain practices simultaneously, connecting dots that siloed firms miss.","La plupart des problèmes à l'intersection de la santé, du climat, de la gouvernance et de l'équité exigent plus d'une discipline. Nous mobilisons six domaines simultanément, connectant des points que les cabinets cloisonnés manquent.",Card 2 body text,
+why-3-title,"Evidence, Not Frameworks","Preuves, pas cadres",Card 3 heading,
+why-3-desc,"We distrust one-size-fits-all methodologies. Every diagnostic is context-specific, every recommendation grounded in local evidence — not adapted from a global template.","Nous nous méfions des méthodologies universelles. Chaque diagnostic est spécifique au contexte, chaque recommandation fondée sur des preuves locales — non adaptée d'un modèle mondial.",Card 3 body text,
+#
+# ── EXPERTISE CARDS (Home & Expertise page) ──────────────────
+exp-label,Our Expertise,Notre expertise,Section eyebrow,
+exp-heading,Six <em>interconnected</em> domains,Six domaines <em>interconnectés</em>,Section heading,
+exp-sub,"We have built deep, practitioner-led expertise across six domains that together address the full complexity of sustainable development and institutional resilience.","Nous avons développé une expertise approfondie dans six domaines qui abordent ensemble toute la complexité du développement durable.",Section subheading,
+exp-1-title,Engineering & Technology,Ingénierie & Technologie,Card 1,
+exp-1-desc,"Infrastructure systems, digital transformation, emerging technology policy, and engineering governance frameworks for the public and private sectors.","Systèmes d'infrastructure, transformation numérique, politique sur les technologies émergentes et cadres de gouvernance de l'ingénierie.",Card 1,
+exp-2-title,Health Systems,Systèmes de santé,Card 2,
+exp-2-desc,"Health system strengthening, policy analysis, service delivery reform, pandemic preparedness, and universal health coverage strategies.","Renforcement des systèmes de santé, analyse des politiques, réforme des services, préparation aux pandémies et couverture sanitaire universelle.",Card 2,
+exp-3-title,Environmental Sustainability,Durabilité environnementale,Card 3,
+exp-3-desc,"Climate adaptation and mitigation, environmental impact assessment, natural resource governance, and green transition planning.","Adaptation et atténuation climatiques, évaluation des impacts environnementaux, gouvernance des ressources naturelles et planification de la transition verte.",Card 3,
+exp-4-title,Social Development,Développement social,Card 4,
+exp-4-desc,"Gender equity, social protection, community engagement, poverty reduction strategies, and inclusive policy design for vulnerable populations.","Équité de genre, protection sociale, engagement communautaire, stratégies de réduction de la pauvreté et conception de politiques inclusives.",Card 4,
+exp-5-title,Education Systems,Systèmes éducatifs,Card 5,
+exp-5-desc,"Education system reform, curriculum development, teacher capacity building, early childhood development, and tertiary education strategy.","Réforme des systèmes éducatifs, développement curriculaire, renforcement des capacités des enseignants et stratégie de l'enseignement supérieur.",Card 5,
+exp-6-title,Institutional Development,Développement institutionnel,Card 6,
+exp-6-desc,"Organisational capacity building, governance reform, public administration, regulatory frameworks, and leadership development for public institutions.","Renforcement des capacités organisationnelles, réforme de la gouvernance, administration publique et développement du leadership pour les institutions publiques.",Card 6,
+exp-btn,View All Expertise,Voir toute l'expertise,Button below expertise cards,
+#
+# ── SERVICES (Home & Services page) ──────────────────────────
+svc-label,Our Services,Nos services,Section eyebrow,
+svc-heading,How we deliver <em>impact</em>,Comment nous créons de <em>l'impact</em>,Section heading,
+svc-intro-p,Our service lines are designed to address the full spectrum of advisory needs — from initial diagnosis to sustained implementation support.,Nos gammes de services sont conçues pour répondre à l'ensemble des besoins en conseil — du diagnostic initial au soutien à la mise en œuvre.,Left-column paragraph,
+svc-1-name,Strategic Advisory,Conseil stratégique,Service 1,
+svc-1-desc,"High-level strategic counsel to decision-makers navigating complex policy environments, institutional reform, or large-scale transformation agendas.","Conseils stratégiques de haut niveau aux décideurs naviguant dans des environnements politiques complexes ou des agendas de transformation à grande échelle.",Service 1,
+svc-2-name,Policy & Research Guidance,Politique & Recherche,Service 2,
+svc-2-desc,"Rigorous research design, evidence synthesis, and policy development support to inform sound, context-sensitive decision-making.","Conception rigoureuse de recherches, synthèse de preuves et soutien au développement de politiques pour une prise de décision éclairée et contextuelle.",Service 2,
+svc-3-name,Program Design,Conception de programmes,Service 3,
+svc-3-desc,"End-to-end design of programs, projects, and initiatives — from theory of change and logframes to implementation planning and risk management.","Conception de bout en bout de programmes et initiatives — de la théorie du changement aux cadres logiques, planification et gestion des risques.",Service 3,
+svc-4-name,Institutional Capacity Building,Renforcement des capacités,Service 4,
+svc-4-desc,"Tailored capacity development interventions that strengthen organisations, teams, and systems to achieve sustainable results independently.","Interventions de développement des capacités qui renforcent les organisations, les équipes et les systèmes pour atteindre des résultats durables.",Service 4,
+svc-5-name,Impact Evaluation,Évaluation de l'impact,Service 5,
+svc-5-desc,"Mixed-methods evaluation frameworks, real-time monitoring, learning systems, and rigorous assessment of program effectiveness and value for money.","Cadres d'évaluation à méthodes mixtes, systèmes de suivi en temps réel et évaluation rigoureuse de l'efficacité des programmes.",Service 5,
+#
+# ── APPROACH STEPS ────────────────────────────────────────────
+appr-label,Our Approach,Notre approche,Section eyebrow,
+appr-heading,A <em>rigorous</em> four-phase methodology,Une méthodologie <em>rigoureuse</em> en quatre phases,Section heading,
+appr-sub,"Every engagement follows a structured, adaptive process built on evidence, collaboration, and continuous learning.","Chaque engagement suit un processus structuré et adaptatif fondé sur des données probantes, la collaboration et l'apprentissage continu.",Section subheading,
+step-1-title,Diagnosis,Diagnostic,Phase 1,
+step-1-desc,"Deep context analysis, stakeholder mapping, systems thinking, and root cause assessment to understand the full landscape of the challenge.","Analyse approfondie du contexte, cartographie des parties prenantes, pensée systémique et évaluation des causes profondes.",Phase 1,
+step-2-title,Co-Design,Co-conception,Phase 2,
+step-2-desc,"Collaborative strategy and solution design with clients and partners, grounded in evidence and aligned to institutional realities.","Conception collaborative de stratégies et solutions avec les clients, fondée sur des données probantes et alignée aux réalités institutionnelles.",Phase 2,
+step-3-title,Implementation,Mise en œuvre,Phase 3,
+step-3-desc,"Technically rigorous support through deployment, including adaptive management, risk mitigation, and real-time course corrections.","Soutien techniquement rigoureux tout au long du déploiement, incluant la gestion adaptative et les corrections en temps réel.",Phase 3,
+step-4-title,Learning & Impact,Apprentissage & Impact,Phase 4,
+step-4-desc,"Systematic evaluation, knowledge capture, and impact documentation to demonstrate value and embed continuous learning.","Évaluation systématique, capture des connaissances et documentation de l'impact pour démontrer la valeur et ancrer l'apprentissage continu.",Phase 4,
+appr-teaser-label,Our Methodology,Notre méthodologie,Home page teaser eyebrow,
+appr-teaser-head,A proven process for <em>complex</em> change,Un processus éprouvé pour le changement <em>complexe</em>,Home page teaser heading,
+appr-teaser-sub,"Our four-phase methodology is both rigorous and adaptive — designed for the messy reality of institutional reform, not the clean lines of a textbook.","Notre méthodologie en quatre phases est rigoureuse et adaptative — conçue pour la réalité difficile de la réforme institutionnelle, pas pour les lignes épurées d'un manuel.",Home page teaser subheading,
+appr-teaser-btn,Explore Our Full Methodology,Explorer notre méthodologie complète,Home page teaser button,
+#
+# ── CTA SECTION ───────────────────────────────────────────────
+cta-label,Start a Conversation,Commencer une conversation,CTA eyebrow,
+cta-heading,Ready to tackle your most complex challenges?,Prêt à relever vos défis les plus complexes?,CTA heading,
+cta-sub,"Our team of senior advisors is available to discuss your context and explore how North Sphere Consulting can support your goals.","Notre équipe de conseillers seniors est disponible pour discuter de votre contexte et explorer comment North Sphere peut soutenir vos objectifs.",CTA subheading,
+cta-btn1,Contact Us,Nous contacter,CTA primary button,
+cta-btn2,Download Profile,Télécharger le profil,CTA secondary button,
+#
+# ── ABOUT PAGE — MISSION ──────────────────────────────────────
+about-pg-label,About North Sphere,À propos de North Sphere,Page hero eyebrow,
+about-pg-headline,"An independent advisory firm built on <em>expertise,</em> evidence, and impact","Un cabinet de conseil indépendant fondé sur l'<em>expertise,</em> les preuves et l'impact",Page hero headline,
+about-pg-sub,"For over two decades, we have supported governments, multilaterals, and civil society organisations to navigate complexity and achieve lasting change.","Depuis plus de deux décennies, nous aidons les gouvernements, les multilatéraux et les organisations de la société civile à naviguer dans la complexité et à réaliser des changements durables.",Page hero subheading,
+mission-label,Our Mission,Notre mission,Mission section eyebrow,
+mission-attr,"North Sphere Consulting, founded 2004","North Sphere Consulting, fondé en 2004",Attribution below mission quote,
+mission-statement,"To strengthen the institutions, systems, and policies that determine whether people can live healthy, dignified, and <em>prosperous lives</em> — everywhere.","Renforcer les institutions, les systèmes et les politiques qui déterminent si les gens peuvent vivre une vie saine, digne et <em>prospère</em> — partout dans le monde.",Mission statement pull quote — VERY IMPORTANT,
+#
+# ── ABOUT PAGE — FOUNDING NARRATIVE ──────────────────────────
+founding-label,Our Story,Notre histoire,Section eyebrow,
+founding-heading,Two decades of <em>evidence-led</em> advisory,Deux décennies de conseil <em>fondé sur les preuves</em>,Section heading,
+founding-p1,"North Sphere was founded in Ottawa in 2004 by a group of senior advisors who had spent careers inside the institutions they sought to improve — the UN, bilateral development agencies, federal ministries, and multilateral banks. They believed that the most effective advisory came from people who understood the political economy of reform from the inside.","North Sphere a été fondé à Ottawa en 2004 par un groupe de conseillers seniors qui avaient passé leur carrière au sein des institutions qu'ils cherchaient à améliorer — l'ONU, les agences de développement bilatérales, les ministères fédéraux et les banques multilatérales.",Founding paragraph 1,
+founding-p2,"Over twenty years, we have grown from a small team focused on health systems in Sub-Saharan Africa to a global practice spanning six domains and four continents. What has not changed is our commitment to rigour, independence, and the primacy of local context.","Au cours de vingt ans, nous sommes passés d'une petite équipe axée sur les systèmes de santé en Afrique subsaharienne à une pratique mondiale couvrant six domaines et quatre continents.",Founding paragraph 2,
+founding-p3,"Today, North Sphere operates through a hub-and-spoke model: a core permanent team of senior partners and directors, augmented by a carefully curated network of 80+ associate experts who are deployed based on the specific demands of each mandate.","Aujourd'hui, North Sphere opère selon un modèle hub-and-spoke : une équipe permanente de partenaires seniors, complétée par un réseau soigneusement sélectionné de 80+ experts associés.",Founding paragraph 3,
+#
+# ── ABOUT PAGE — MILESTONES ───────────────────────────────────
+ms-2004,2004,2004,Year label,
+ms-2004-title,Founded in Ottawa,Fondé à Ottawa,Milestone title,
+ms-2004-desc,"Established as a health systems advisory firm serving USAID, DFID, and the World Bank.","Établi comme cabinet de conseil en systèmes de santé au service de l'USAID, du DFID et de la Banque mondiale.",Milestone description,
+ms-2010,2010,2010,Year label,
+ms-2010-title,Expanded to Six Domains,Expansion à six domaines,Milestone title,
+ms-2010-desc,"Broadened practice to include education, environment, and institutional development following demand from multilateral clients.","Élargissement de la pratique à l'éducation, l'environnement et le développement institutionnel.",Milestone description,
+ms-2016,2016,2016,Year label,
+ms-2016-title,Opened Geneva & Nairobi Offices,Bureaux de Genève et Nairobi,Milestone title,
+ms-2016-desc,"Established regional hubs to better serve European institutions and the African Union.","Création de hubs régionaux pour mieux servir les institutions européennes et l'Union africaine.",Milestone description,
+ms-2023,2023,2023,Year label,
+ms-2023-title,Asia-Pacific Practice Launched,Lancement Asie-Pacifique,Milestone title,
+ms-2023-desc,"New Singapore office anchors growing work across South and Southeast Asia.","Le bureau de Singapour ancre les travaux croissants en Asie du Sud et du Sud-Est.",Milestone description,
+#
+# ── ABOUT PAGE — VALUES ───────────────────────────────────────
+val-label,Our Values,Nos valeurs,Section eyebrow,
+val-heading,What guides us,Ce qui nous guide,Section heading,
+val-1-title,Intellectual Rigour,Rigueur intellectuelle,Value 1,
+val-1-desc,"We bring the highest standards of analytical excellence, evidence-based reasoning, and critical thinking to every engagement.","Nous appliquons les plus hauts standards d'excellence analytique, de raisonnement fondé sur des preuves et de pensée critique à chaque engagement.",Value 1,
+val-2-title,Partnership,Partenariat,Value 2,
+val-2-desc,"We work alongside clients as trusted partners, co-creating solutions that are owned, sustained, and built upon long after we leave.","Nous travaillons aux côtés des clients comme partenaires de confiance, co-créant des solutions qui sont appropriées et pérennisées bien après notre départ.",Value 2,
+val-3-title,Equity & Inclusion,Équité & Inclusion,Value 3,
+val-3-desc,"We centre the voices and interests of marginalised communities, ensuring our work promotes just and equitable outcomes.","Nous centrons les voix et les intérêts des communautés marginalisées, en veillant à ce que notre travail promeuve des résultats justes et équitables.",Value 3,
+val-4-title,Systems Thinking,Pensée systémique,Value 4,
+val-4-desc,"We resist siloed solutions, always placing specific challenges within their broader systemic, political, and institutional context.","Nous résistons aux solutions cloisonnées, plaçant toujours les défis spécifiques dans leur contexte systémique, politique et institutionnel plus large.",Value 4,
+val-5-title,Independence,Indépendance,Value 5,
+val-5-desc,"Our advice is impartial, evidence-driven, and free from conflicts of interest, so clients can trust what we say.","Nos conseils sont impartiaux, fondés sur des preuves et libres de conflits d'intérêts, afin que les clients puissent faire confiance à ce que nous disons.",Value 5,
+val-6-title,Adaptive Learning,Apprentissage adaptatif,Value 6,
+val-6-desc,"We build learning into every engagement, remaining open to evidence that challenges assumptions and improving as we go.","Nous intégrons l'apprentissage dans chaque engagement, restant ouverts aux preuves qui remettent en question les hypothèses et en nous améliorant continuellement.",Value 6,
+#
+# ── ABOUT PAGE — GLOBAL REACH ─────────────────────────────────
+reach-label,Global Reach,Présence mondiale,Section eyebrow,
+reach-heading,Where we <em>work</em>,Où nous <em>travaillons</em>,Section heading,
+reach-sub,"Our engagements span 60+ countries across every major region, with permanent offices on three continents.","Nos engagements couvrent 60+ pays dans toutes les grandes régions, avec des bureaux permanents sur trois continents.",Section subheading,
+reach-1-region,Sub-Saharan Africa,Afrique subsaharienne,Region card,
+reach-1-countries,"Kenya, Ghana, Ethiopia, Senegal, Mozambique +17","Kenya, Ghana, Éthiopie, Sénégal, Mozambique +17",Region card,
+reach-2-region,South & Southeast Asia,Asie du Sud et du Sud-Est,Region card,
+reach-2-countries,"India, Bangladesh, Vietnam, Philippines +8","Inde, Bangladesh, Vietnam, Philippines +8",Region card,
+reach-3-region,Middle East & North Africa,Moyen-Orient et Afrique du Nord,Region card,
+reach-3-countries,"Jordan, Morocco, Egypt, Lebanon +4","Jordanie, Maroc, Égypte, Liban +4",Region card,
+reach-4-region,Latin America,Amérique latine,Region card,
+reach-4-countries,"Colombia, Peru, Haiti, Guatemala +6","Colombie, Pérou, Haïti, Guatemala +6",Region card,
+reach-5-region,Europe & Central Asia,Europe et Asie centrale,Region card,
+reach-5-countries,"Multilateral institutions, EU, Council of Europe","Institutions multilatérales, UE, Conseil de l'Europe",Region card,
+reach-6-region,Pacific & SIDS,Pacifique et PEID,Region card,
+reach-6-countries,"Small island developing states, climate-vulnerable nations","Petits États insulaires en développement, nations vulnérables au climat",Region card,
+reach-7-region,North America,Amérique du Nord,Region card,
+reach-7-countries,"Federal advisory in Canada, USAID programming","Conseil fédéral au Canada, programmation USAID",Region card,
+reach-8-region,Global Institutions,Institutions mondiales,Region card,
+reach-8-countries,"UN, World Bank, IFC, ADB, IADB, Global Fund","ONU, Banque mondiale, FMI, BAsD, BID, Fonds mondial",Region card,
+#
+# ── ABOUT PAGE — TEAM ─────────────────────────────────────────
+team-label,Our Team,Notre équipe,Section eyebrow,
+team-heading,Senior advisors with <em>global</em> experience,Conseillers seniors avec une expérience <em>mondiale</em>,Section heading,
+team-bio-ma,"Dr. Archambault brings 25 years of senior advisory experience across the UN system, the World Bank, and national governments. She has led health system reform programs in over 18 countries and served as a senior advisor to the WHO Director-General.","Dr. Archambault apporte 25 ans d'expérience de conseil senior au sein du système ONU, de la Banque mondiale et des gouvernements nationaux. Elle a dirigé des programmes de réforme des systèmes de santé dans plus de 18 pays.",Managing Partner bio — EDIT WITH REAL BIO,
+team-bio-jo,"Dr. Okonkwo is a physician-turned-policy-expert who has advised health ministries across East and West Africa. His work on universal health coverage in Kenya and Ghana is cited in WHO global strategy documents.","Dr. Okonkwo est un médecin devenu expert en politique qui a conseillé des ministères de la santé à travers l'Afrique de l'Est et de l'Ouest.",Principal Advisor Health bio — EDIT WITH REAL BIO,
+team-bio-sl,"Ms. Larouche has 18 years of experience in education system reform, specialising in francophone Africa and the Caribbean. She led the design of national curriculum frameworks in three countries and serves on the UNESCO International Expert Panel.","Mme Larouche a 18 ans d'expérience en réforme des systèmes éducatifs, spécialisée en Afrique francophone et aux Caraïbes.",Director Education bio — EDIT WITH REAL BIO,
+team-bio-rv,"Dr. Verma is a civil engineer and technology policy expert who advises governments on digital infrastructure, GovTech strategy, and climate-resilient engineering standards. He has worked with the ADB and UNDP across South Asia.","Dr. Verma est un ingénieur civil et expert en politique technologique qui conseille les gouvernements sur l'infrastructure numérique et les normes d'ingénierie résilientes au climat.",Lead Engineering bio — EDIT WITH REAL BIO,
+team-tag-health,Health Systems,Systèmes de santé,Tag,
+team-tag-governance,Governance,Gouvernance,Tag,
+team-tag-uhc,UHC,CSU,Tag,
+team-tag-education,Education,Éducation,Tag,
+team-tag-curriculum,Curriculum,Curriculum,Tag,
+team-tag-francophone,Francophone Africa,Afrique francophone,Tag,
+team-tag-engineering,Engineering,Ingénierie,Tag,
+team-tag-digital,Digital Policy,Politique numérique,Tag,
+team-tag-climate,Climate Resilience,Résilience climatique,Tag,
+team-tag-strategy,Strategy,Stratégie,Tag,
+team-tag-reform,Institutional Reform,Réforme institutionnelle,Tag,
+#
+# ── CONTACT PAGE ──────────────────────────────────────────────
+contact-label,Contact Us,Contactez-nous,Page eyebrow,
+contact-heading,Let's work together,Travaillons ensemble,Page heading,
+contact-intro,"Whether you're exploring a potential engagement or have a specific brief, we welcome the conversation. Our senior advisors will respond within two business days.","Que vous explorez un engagement potentiel ou ayez un mandat spécifique, nous sommes ouverts à la conversation. Nos conseillers seniors répondront dans les deux jours ouvrables.",Page intro paragraph,
+contact-loc-lbl,Headquarters,Siège social,Label above address,
+contact-loc,Ottawa · Canada · Global Offices,Ottawa · Canada · Bureaux mondiaux,Address line — EDIT WITH REAL DETAILS,
+contact-email-lbl,Email,Courriel,Label above email,
+contact-email,advisory@northsphereconsulting.com,conseil@northsphereconsulting.com,Email address — EDIT WITH REAL EMAIL,
+contact-ph-lbl,Phone,Téléphone,Label above phone,
+contact-ph,+1 (613) 555-0190,+1 (613) 555-0190,Phone number — EDIT WITH REAL NUMBER,
+form-fname,First Name,Prénom,Form field label,
+form-lname,Last Name,Nom de famille,Form field label,
+form-org,Organisation,Organisation,Form field label,
+form-email,Email Address,Adresse courriel,Form field label,
+form-service,Area of Interest,Domaine d'intérêt,Form field label,
+form-svc-opt0,Select a service area,Sélectionner un domaine,Dropdown placeholder,
+form-svc-opt1,Strategic Advisory,Conseil stratégique,Dropdown option,
+form-svc-opt2,Policy & Research,Politique & Recherche,Dropdown option,
+form-svc-opt3,Program Design,Conception de programmes,Dropdown option,
+form-svc-opt4,Capacity Building,Renforcement des capacités,Dropdown option,
+form-svc-opt5,Impact Evaluation,Évaluation de l'impact,Dropdown option,
+form-svc-opt6,Other,Autre,Dropdown option,
+form-message,Brief Description of Your Needs,Brève description de vos besoins,Form field label,
+form-submit,Submit Enquiry,Envoyer la demande,Form submit button,
+form-success-msg,✓ Thank you. We will be in touch within two business days.,✓ Merci. Nous vous répondrons dans les deux jours ouvrables.,Success message after form submission,
+#
+# ── FOOTER ────────────────────────────────────────────────────
+footer-desc,"Independent advisory for a complex world. Bringing rigour, equity, and interdisciplinary thinking to the challenges that matter most.","Conseil indépendant pour un monde complexe. Alliant rigueur, équité et pensée interdisciplinaire aux défis qui comptent le plus.",Footer tagline,
+footer-nav-h,Navigation,Navigation,Footer column header,
+footer-svc-h,Services,Services,Footer column header,
+footer-contact-h,Contact,Contact,Footer column header,
+footer-copy,© 2025 North Sphere Consulting. All rights reserved.,© 2025 North Sphere Consulting. Tous droits réservés.,Copyright — update year annually,
+footer-privacy,Privacy Policy,Politique de confidentialité,Footer link,
+footer-terms,Terms of Use,Conditions d'utilisation,Footer link,
